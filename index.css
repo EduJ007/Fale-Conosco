@@ -9,7 +9,7 @@
     transform: scale(1.05);
 }
 body {
-    background-color:#708090;
+    background-color:rgb(29, 29, 29);
 }
 
 #mudarcor {
@@ -35,7 +35,7 @@ h1 {
     font-size:35px;
 }
 #seu {
-    color: lightgray;
+    color: yellow;
     text-decoration:underline;
 }
 footer {
